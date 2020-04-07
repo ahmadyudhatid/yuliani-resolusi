@@ -1,4 +1,6 @@
 RENCANA KONTEN
 Membuat html
 -menambahkan materi 
+-Memperdalam materi
+-latihan html
 Membuat javascript
